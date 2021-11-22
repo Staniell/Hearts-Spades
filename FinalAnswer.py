@@ -171,7 +171,7 @@ def frq_patterns():
     return {'Full house': 0, 'Three of a kind': 0, 'Two pair': 0}
 
 ### ADD MORE OF YOUR OWN DOCTESTS TO THE FIRST TWO FUNCTION DOCSTRINGS!!!
-### DO NOT MODIFY THE MAIN BLOCK BELOW!!!
+### DO NOT MODIFY THE MAIN BLOCsK BELOW!!!
 
 if __name__ == "__main__":
     import doctest
